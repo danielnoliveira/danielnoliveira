@@ -32,6 +32,9 @@ Hi, My name is Daniel
     <li>Site de uma aplicação ToDo List feita para um processo seletivo na empresa Urbis. Frontend feito em ReactJS e backend feito em Nodejs.
     <a href="https://github.com/danielnoliveira/UrbisToDoWebApp">Link do repositorio</a>
     </li>
+    <li>Projeto realizado durante o evento Semana omnistack edção 11 da RocketSeat. Frontend feito em ReactJS, backend feito em Nodejs e aplicação mobile feito em React Native 
+    <a href="https://github.com/danielnoliveira/semanaomnistack11">Link do repositorio</a>
+    </li>
 </ul>
 
 #### Backend
@@ -51,6 +54,12 @@ Hi, My name is Daniel
     </li>
      <li>Projeto realizado durante o evento Next Level Week da RocketSeat. Uma aplicação backend feita com Nodejs e utilizando typescript, socket.io, socket.io-client, typeorm, uuid, sqlite3, express, reflect-metada, ejs e Mustache.
     <a href="https://github.com/danielnoliveira/NLW05backend">Link do repositorio</a>
+    </li>
+     <li>Script feito com Python de um programa que baixa musicas do youtube com o pacote youtube-dl e que oferece a capacidade de editar algums metadados das musicas utilizando o pacote eyeD3.
+    <a href="https://github.com/danielnoliveira/m_download-editorTags_youtube">Link do repositorio</a>
+    </li>
+    <li>Projeto academico de Tic Tac Toe feito em java onde a maquina utiliza de um algoritmo MinMax para decidir sua proxima jogada!
+    <a href="https://github.com/danielnoliveira/TicTacToeWithMinimax">Link do repositorio</a>
     </li>
 </ul>
 
@@ -77,8 +86,33 @@ Hi, My name is Daniel
 react-native-searchable-dropdown.
     <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a>
     </li>
-    <li>Aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio encontrado no site devchallenge.com
+    <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
+    </li>
+    <li>Pagina de um site e-commerce para a compra de um fone de ouvido!. Desafio intermediario encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/FoneLandingPage">Link do repositorio</a>
+    </li>
+    <li>Landing page sobre um site de criação de gráficos!. Desafio basico encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/AmazingGraph">Link do repositorio</a>
+    </li>
+    <li>Site com um jogo da memoria feito com HTML,CSS e JS.
+    <a href="https://github.com/danielnoliveira/MemoryCardGame">Link do repositorio</a>
+    </li>
+</ul>
+
+
+
+#### Mobile
+
+<ul>
+    <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
+    </li>
+    <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
+    </li>
+    <li>Telas de um aplicativo de entrega de comida feito com React Native. Design de um projeto no site dribbble.
+    <a href="https://github.com/danielnoliveira/SimplesDeliveryApp">Link do repositorio</a>
     </li>
 </ul>
 
