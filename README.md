@@ -26,6 +26,33 @@ Hi, My name is Daniel
 
 ### My Projects
 
+#### FullStack
+
+<ul>
+    <li>Site de uma aplicação ToDo List feita para um processo seletivo na empresa Urbis. Frontend feito em ReactJS e backend feito em Nodejs.
+    <a href="https://github.com/danielnoliveira/UrbisToDoWebApp">Link do repositorio</a>
+    </li>
+</ul>
+
+#### Backend
+
+<ul>
+    <li>Um bot no telegram que recebe arquivos do usuario e envia para o seu kindle feito com Nodejs utilizando os modulos express, mongoose, node-telegram-bot-api, node-ebook-converter, nodemailer e jest.
+    <a href="https://github.com/danielnoliveira/TelegramBotKindle">Link do repositorio</a>
+    </li>
+    <li>API feita com apollo-server, graphql e mongoose e typescript.
+    <a href="https://github.com/danielnoliveira/ApolloBackendPokemonTypescript">Link do repositorio</a>
+    </li>
+    <li>API express, knex e sqlite3 para envio de questões sobre Padrões de Projeto a um chatbot feito com a ferramenta blip.
+    <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
+    </li>
+    <li>API express, knex e sqlite3 para envio de questões sobre Padrões de Projeto a um chatbot feito com a ferramenta blip.
+    <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
+    </li>
+    <li>Um pequeno sistema de radio feito em Java utilizando sockets(protocolo UDP para a musica e TCP para o estabelecimento da conexão cliente-radio) e threads.
+    <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
+    </li>
+</ul>
 
 ### Connect with me:
 
