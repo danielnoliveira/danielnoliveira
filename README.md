@@ -40,17 +40,45 @@ Hi, My name is Daniel
     <li>Um bot no telegram que recebe arquivos do usuario e envia para o seu kindle feito com Nodejs utilizando os modulos express, mongoose, node-telegram-bot-api, node-ebook-converter, nodemailer e jest.
     <a href="https://github.com/danielnoliveira/TelegramBotKindle">Link do repositorio</a>
     </li>
-    <li>API feita com apollo-server, graphql e mongoose e typescript.
+    <li>API feita com apollo-server, graphql, mongoose e typescript.
     <a href="https://github.com/danielnoliveira/ApolloBackendPokemonTypescript">Link do repositorio</a>
     </li>
     <li>API express, knex e sqlite3 para envio de questões sobre Padrões de Projeto a um chatbot feito com a ferramenta blip.
     <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
     </li>
-    <li>API express, knex e sqlite3 para envio de questões sobre Padrões de Projeto a um chatbot feito com a ferramenta blip.
+    <li>Um pequeno sistema de radio feito em Java utilizando sockets(protocolo UDP para o envio da musica em cada canal e TCP para o estabelecimento da conexão cliente-radio) e threads.
     <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
     </li>
-    <li>Um pequeno sistema de radio feito em Java utilizando sockets(protocolo UDP para a musica e TCP para o estabelecimento da conexão cliente-radio) e threads.
-    <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
+     <li>Projeto realizado durante o evento Next Level Week da RocketSeat. Uma aplicação backend feita com Nodejs e utilizando typescript, socket.io, socket.io-client, typeorm, uuid, sqlite3, express, reflect-metada, ejs e Mustache.
+    <a href="https://github.com/danielnoliveira/NLW05backend">Link do repositorio</a>
+    </li>
+</ul>
+
+#### Frontend
+
+<ul>
+    <li>
+    8 mini-projetos frontend feitos com ReactJS.
+    <ul>
+        <li><a title="Site" href="https://sleepy-pare-d66515.netlify.app/">Pokedex</a> - <a href="https://github.com/danielnoliveira/Pokedex">Link do repositorio</a></li>
+         <li><a title="Site" href="https://happy-clarke-cccb14.netlify.app">Stopwatch</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/stopwatch">Link do repositorio</a></li>
+          <li><a title="Site" href="https://cocky-engelbart-fdd1d0.netlify.app">Counter</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/counter">Link do repositorio</a></li>
+           <li><a title="Site" href="https://laughing-thompson-e0dc06.netlify.app">BMI Calculator</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/bmicalculator">Link do repositorio</a></li>
+            <li><a title="Site" href="https://eloquent-payne-c452df.netlify.app/">Random Joke Generator</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/randomjokegenerator">Link do repositorio</a></li>
+             <li><a title="Site" href="https://angry-payne-3a644e.netlify.app">Tic Tac Toe</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/tictactoe">Link do repositorio</a></li>
+              <li><a title="Site" href="https://nervous-villani-5cc731.netlify.app/">Form Validation</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/formvalidation">Link do repositorio</a></li>
+             <li><a title="Site" href="https://thirsty-yalow-e9d8c1.netlify.app">Weather App</a> - <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers/tree/master/weatherapp">Link do repositorio</a></li>
+    </ul>
+    <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers">Link do repositorio</a>
+    </li>
+    <li>
+    Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
+@react-native-async-storage/async-storage para o armazenamento de itens em um inventario e 
+react-native-searchable-dropdown.
+    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a>
+    </li>
+    <li>Aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
     </li>
 </ul>
 
