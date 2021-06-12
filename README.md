@@ -80,15 +80,6 @@ Hi, My name is Daniel
     </ul>
     <a href="https://github.com/danielnoliveira/Eight-ReactJS-Projects-Begginers">Link do repositorio</a>
     </li>
-    <li>
-    Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
-@react-native-async-storage/async-storage para o armazenamento de itens em um inventario e 
-react-native-searchable-dropdown.
-    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a>
-    </li>
-    <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
-    <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
-    </li>
     <li>Pagina de um site e-commerce para a compra de um fone de ouvido!. Desafio intermediario encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/FoneLandingPage">Link do repositorio</a>
     </li>
@@ -107,6 +98,12 @@ react-native-searchable-dropdown.
 <ul>
     <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
+    </li>
+    <li>
+    Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
+@react-native-async-storage/async-storage para o armazenamento de itens em um inventario e 
+react-native-searchable-dropdown.
+    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a>
     </li>
     <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
