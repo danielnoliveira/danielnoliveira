@@ -36,7 +36,7 @@ Hi, My name is Daniel
 #### FullStack
 
 <ul>
-    <li><>Site de uma aplicação ToDo List feita para um processo seletivo na empresa Urbis. Frontend feito em ReactJS e backend feito em Nodejs.
+    <li>Site de uma aplicação ToDo List feita para um processo seletivo na empresa Urbis. Frontend feito em ReactJS e backend feito em Nodejs.
     <a href="https://github.com/danielnoliveira/UrbisToDoWebApp">Link do repositorio</a></p>
     <img src="https://media.giphy.com/media/OW3sqfKOtz7WPmtILS/giphy.gif"/>
     </li>
@@ -74,6 +74,9 @@ Hi, My name is Daniel
 #### Frontend
 
 <ul>
+    <li><p><a title="Site" href="https://sleepy-pare-d66515.netlify.app/">Pokedex</a> - <a href="https://github.com/danielnoliveira/Pokedex">Link do repositorio</a></p>
+    <img src="https://media.giphy.com/media/O9YTZP88l5BaYQ54Cl/giphy.gif" />
+    </li>
     <li>
     8 mini-projetos frontend feitos com ReactJS.
     <ul>
