@@ -51,6 +51,10 @@ Hi, My name is Daniel
     <li>Um bot no telegram que recebe arquivos do usuario e envia para o seu kindle feito com Nodejs utilizando os modulos express, mongoose, node-telegram-bot-api, node-ebook-converter, nodemailer e jest.
     <a href="https://github.com/danielnoliveira/TelegramBotKindle">Link do repositorio</a>
     </li>
+    <li>
+        <p>Aplicação de chat em tempo real com socket.io.<a href="https://github.com/danielnoliveira/SocketIO_GettingStarted">Link do repositorio</a></p>
+        <img src="https://media.giphy.com/media/xglEEjKOlbbHBc0asF/giphy.gif"/>
+    </li>
     <li>API feita com apollo-server, graphql, mongoose e typescript.
     <a href="https://github.com/danielnoliveira/ApolloBackendPokemonTypescript">Link do repositorio</a>
     </li>
