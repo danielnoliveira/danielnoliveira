@@ -111,10 +111,12 @@ Hi, My name is Daniel
     <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
     </li>
     <li>
+    <p>
     Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
 @react-native-async-storage/async-storage para o armazenamento de itens em um inventario e 
 react-native-searchable-dropdown.
-    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a>
+    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a></p>
+    <img  src="https://camo.githubusercontent.com/3ec90d9e94d28832809f069879b4101b34c8d77444646ddd4f6e5de1a8b42029/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c70664e354b78326f445035716f694b6c2f67697068792e676966"/>
     </li>
     <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
