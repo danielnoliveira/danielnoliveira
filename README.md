@@ -121,8 +121,10 @@ react-native-searchable-dropdown.
     <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
     </li>
-    <li>Telas de um aplicativo de entrega de comida feito com React Native. Design de um projeto no site dribbble.
+    <li><p>Telas de um aplicativo de entrega de comida feito com React Native. Design de um projeto no site dribbble.
     <a href="https://github.com/danielnoliveira/SimplesDeliveryApp">Link do repositorio</a>
+    </p>
+    <img src="https://camo.githubusercontent.com/d44d8685ba3a5bdca667155308e17fbe1066c10d9d2867e5884930bef47728fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7232534d75304c6f55617a4b7975533533662f67697068792e676966" />
     </li>
 </ul>
 
