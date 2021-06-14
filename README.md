@@ -36,9 +36,9 @@ Hi, My name is Daniel
 #### FullStack
 
 <ul>
-    <li>Site de uma aplicação ToDo List feita para um processo seletivo na empresa Urbis. Frontend feito em ReactJS e backend feito em Nodejs.
-    <a href="https://github.com/danielnoliveira/UrbisToDoWebApp">Link do repositorio</a>
-    <img style="vertical-align: bottom;" src="https://media.giphy.com/media/OW3sqfKOtz7WPmtILS/giphy.gif"/>
+    <li><>Site de uma aplicação ToDo List feita para um processo seletivo na empresa Urbis. Frontend feito em ReactJS e backend feito em Nodejs.
+    <a href="https://github.com/danielnoliveira/UrbisToDoWebApp">Link do repositorio</a></p>
+    <img src="https://media.giphy.com/media/OW3sqfKOtz7WPmtILS/giphy.gif"/>
     </li>
     <li>Projeto realizado durante o evento Semana omnistack edção 11 da RocketSeat. Frontend feito em ReactJS, backend feito em Nodejs e aplicação mobile feito em React Native 
     <a href="https://github.com/danielnoliveira/semanaomnistack11">Link do repositorio</a>
