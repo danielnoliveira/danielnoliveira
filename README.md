@@ -137,7 +137,7 @@ react-native-searchable-dropdown.
     <img src="https://camo.githubusercontent.com/585442812e39706ae8e36dcaf1c3624247355619674c0a38958c25a22c7cd5cb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a5168473852777661386d714d4b665643652f67697068792e676966" />
     <img src="https://camo.githubusercontent.com/e10541fbe8b9db3cae0c6a4ff9c48f6b9026a8075f2f85446395b6f30fb81afe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f365768646b4b7075486534336233477476582f67697068792e676966" />
     </div>
-     <li><p>App feito com React Native. Redesign do app do Paypal, projeto no site dribbble: https://dribbble.com/vdemenko.
+     <li><p>App feito com React Native e Typescript. Redesign do app do Paypal, design encontrado no dribbble: https://dribbble.com/vdemenko.
     <a href="https://github.com/danielnoliveira/paypal_app_ui">Link do repositorio</a>
     </p>
     <div style="display:flex;gap:20px;">
