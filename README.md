@@ -33,6 +33,46 @@ Hi, My name is Daniel
 
 ### My Projects
 
+#### Mobile
+
+<ul>
+    <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
+    </li>
+    <li>
+    <p>
+    Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
+@react-native-async-storage/async-storage para o armazenamento de itens em um inventario e 
+react-native-searchable-dropdown.
+    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a></p>
+    <img  src="https://camo.githubusercontent.com/3ec90d9e94d28832809f069879b4101b34c8d77444646ddd4f6e5de1a8b42029/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c70664e354b78326f445035716f694b6c2f67697068792e676966"/>
+    </li>
+    <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
+    </li>
+    <li><p>Telas de um aplicativo de entrega de comida feito com React Native. Design de um projeto no site dribbble.
+    <a href="https://github.com/danielnoliveira/SimplesDeliveryApp">Link do repositorio</a>
+    </p>
+    <img src="https://camo.githubusercontent.com/d44d8685ba3a5bdca667155308e17fbe1066c10d9d2867e5884930bef47728fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7232534d75304c6f55617a4b7975533533662f67697068792e676966" />
+    </li>
+    <li><p>Aplicativo de filmes feito com React Native. Design de um projeto no site dribbble.
+    <a href="https://github.com/danielnoliveira/MovieAppUI">Link do repositorio</a>
+    </p>
+    <div style="display:flex;gap:20px;">
+    <img src="https://camo.githubusercontent.com/585442812e39706ae8e36dcaf1c3624247355619674c0a38958c25a22c7cd5cb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a5168473852777661386d714d4b665643652f67697068792e676966" />
+    <img src="https://camo.githubusercontent.com/e10541fbe8b9db3cae0c6a4ff9c48f6b9026a8075f2f85446395b6f30fb81afe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f365768646b4b7075486534336233477476582f67697068792e676966" />
+    </div>
+     <li><p>App feito com React Native e Typescript. Redesign do app do Paypal, design encontrado no dribbble: https://dribbble.com/vdemenko.
+    <a href="https://github.com/danielnoliveira/paypal_app_ui">Link do repositorio</a>
+    </p>
+    <div style="display:flex;gap:20px;">
+    <img src="https://media.giphy.com/media/NyVT7BBTIsKyOL0sTe/giphy.gif" />
+    <img src="https://media.giphy.com/media/x3v6U3PkfEEVgo8EQe/giphy.gif" />
+    </div>
+    </li>
+</ul>
+
+
 #### FullStack
 
 <ul>
@@ -97,47 +137,6 @@ Hi, My name is Daniel
     </li>
     <li>Site com um jogo da memoria feito com HTML,CSS e JS.
     <a href="https://github.com/danielnoliveira/MemoryCardGame">Link do repositorio</a>
-    </li>
-</ul>
-
-
-
-#### Mobile
-
-<ul>
-    <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
-    <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
-    </li>
-    <li>
-    <p>
-    Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
-@react-native-async-storage/async-storage para o armazenamento de itens em um inventario e 
-react-native-searchable-dropdown.
-    <a href="https://github.com/danielnoliveira/DragonQuestVIII-RecipesApp">Link do repositorio</a></p>
-    <img  src="https://camo.githubusercontent.com/3ec90d9e94d28832809f069879b4101b34c8d77444646ddd4f6e5de1a8b42029/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c70664e354b78326f445035716f694b6c2f67697068792e676966"/>
-    </li>
-    <li>Telas de um aplicativo feito com React Native listando os personagens da Marvel, com suas informações, habilidades e filmes!. Desafio avançado encontrado no site devchallenge.com
-    <a href="https://github.com/danielnoliveira/Marvel-Heroes">Link do repositorio</a>
-    </li>
-    <li><p>Telas de um aplicativo de entrega de comida feito com React Native. Design de um projeto no site dribbble.
-    <a href="https://github.com/danielnoliveira/SimplesDeliveryApp">Link do repositorio</a>
-    </p>
-    <img src="https://camo.githubusercontent.com/d44d8685ba3a5bdca667155308e17fbe1066c10d9d2867e5884930bef47728fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7232534d75304c6f55617a4b7975533533662f67697068792e676966" />
-    </li>
-    <li><p>Aplicativo de filmes feito com React Native. Design de um projeto no site dribbble.
-    <a href="https://github.com/danielnoliveira/MovieAppUI">Link do repositorio</a>
-    </p>
-    <div style="display:flex;gap:20px;">
-    <img src="https://camo.githubusercontent.com/585442812e39706ae8e36dcaf1c3624247355619674c0a38958c25a22c7cd5cb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a5168473852777661386d714d4b665643652f67697068792e676966" />
-    <img src="https://camo.githubusercontent.com/e10541fbe8b9db3cae0c6a4ff9c48f6b9026a8075f2f85446395b6f30fb81afe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f365768646b4b7075486534336233477476582f67697068792e676966" />
-    </div>
-     <li><p>App feito com React Native e Typescript. Redesign do app do Paypal, design encontrado no dribbble: https://dribbble.com/vdemenko.
-    <a href="https://github.com/danielnoliveira/paypal_app_ui">Link do repositorio</a>
-    </p>
-    <div style="display:flex;gap:20px;">
-    <img src="https://media.giphy.com/media/NyVT7BBTIsKyOL0sTe/giphy.gif" />
-    <img src="https://media.giphy.com/media/x3v6U3PkfEEVgo8EQe/giphy.gif" />
-    </div>
     </li>
 </ul>
 
