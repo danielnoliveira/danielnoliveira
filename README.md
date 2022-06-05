@@ -4,6 +4,14 @@ Hi, My name is Daniel
 
 ### My Skills
 
+#### ---> Mobile
+<div style="display:flex;gap:20px">
+<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+
+<br/>
+</div>
+
 #### ---> Front-End
 <div style="display:flex;gap:20px">
 <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
