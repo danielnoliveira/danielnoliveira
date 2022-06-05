@@ -61,10 +61,7 @@ Hi, My name is Daniel
     <li>Um pequeno sistema de radio feito em Java utilizando sockets(protocolo UDP para o envio da musica em cada canal e TCP para o estabelecimento da conexão cliente-radio) e threads.
     <a href="https://github.com/danielnoliveira/QuizBackend">Link do repositorio</a>
     </li>
-     <li>Projeto realizado durante o evento Next Level Week da RocketSeat. Uma aplicação backend feita com Nodejs e utilizando typescript, socket.io, socket.io-client, typeorm, uuid, sqlite3, express, reflect-metada, ejs e Mustache.
-    <a href="https://github.com/danielnoliveira/NLW05backend">Link do repositorio</a>
-    </li>
-     <li>Script feito com Python de um programa que baixa musicas do youtube com o pacote youtube-dl e que oferece a capacidade de editar algums metadados das musicas utilizando o pacote eyeD3.
+    <li>Script feito com Python de um programa que baixa musicas do youtube com o pacote youtube-dl e que oferece a capacidade de editar algums metadados das musicas utilizando o pacote eyeD3.
     <a href="https://github.com/danielnoliveira/m_download-editorTags_youtube">Link do repositorio</a>
     </li>
     <li>Projeto academico de Tic Tac Toe feito em java onde a maquina utiliza de um algoritmo MinMax para decidir sua proxima jogada!
