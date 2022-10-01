@@ -44,9 +44,7 @@ Hi, My name is Daniel
 #### Mobile
 
 <ul>
-    <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
-    <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
-    </li>
+   
      <li>
     <p>
     App de monitoramento da sua carteira de criptomoedas. 
@@ -85,6 +83,9 @@ react-native-searchable-dropdown.
     <img src="https://media.giphy.com/media/NyVT7BBTIsKyOL0sTe/giphy.gif" />
     <img src="https://media.giphy.com/media/x3v6U3PkfEEVgo8EQe/giphy.gif" />
     </div>
+    </li>
+     <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
+    <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
     </li>
 </ul>
 
