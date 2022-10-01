@@ -47,6 +47,14 @@ Hi, My name is Daniel
     <li>Telas de um aplicativo feito com react native que auxilia os pacientes durante sua fisioterapia!. Desafio basico encontrado no site devchallenge.com
     <a href="https://github.com/danielnoliveira/FisioTheApp">Link do repositorio</a>
     </li>
+     <li>
+    <p>
+    App de monitoramento da sua carteira de criptomoedas. 
+    <a href="https://github.com/danielnoliveira/crypto_ui">Link do repositorio</a></p>
+    <p>Design de <a href="https://dribbble.com/capicreative"> Capi Creative</a></p>
+    <p>Link do design do projeto de <a href="https://dribbble.com/shots/19512530-Crypto-Tracking-Dashboard-Mobile-App-Concept"> https://dribbble.com/shots/19512530-Crypto-Tracking-Dashboard-Mobile-App-Concept</a></p>
+    <image src="https://media.giphy.com/media/7k5oWGlPZ4ZSRyKPXf/giphy.gif" />
+    </li>
     <li>
     <p>
     Aplicativo para android de um repositorio de informações de itens e receitas de crafting do jogo DragonQuest VIII. Feito com React Native utilizando @react-navigation/drawer para a navegação entre telas,
