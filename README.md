@@ -44,7 +44,6 @@ Hi, My name is Daniel
 #### Mobile
 
 <ul>
-   
      <li>
     <p>
     App de monitoramento da sua carteira de criptomoedas. 
