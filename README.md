@@ -41,13 +41,21 @@ Hi, My name is Daniel
 
 ### My Projects
 
-#### Mobile
+#### Mobile 
 
 <ul>
+<li>
+    <p>
+    App de consulta de dados dos paises na api do IBGE. 
+    <a href="https://github.com/danielnoliveira/crypto_ui">Link do repositorio</a></p>
+    <p>Feito com Flutter</p>
+    <image src="https://media.giphy.com/media/Adz6ZexkdUZG8LkJHv/giphy.gif" />
+    </li>
      <li>
     <p>
-    App de monitoramento da sua carteira de criptomoedas. 
+    App  de monitoramento da sua carteira de criptomoedas. 
     <a href="https://github.com/danielnoliveira/crypto_ui">Link do repositorio</a></p>
+    <p>Feito com Flutter</p>
     <p>Design de <a href="https://dribbble.com/capicreative"> Capi Creative</a></p>
     <p>Link do design do projeto de <a href="https://dribbble.com/shots/19512530-Crypto-Tracking-Dashboard-Mobile-App-Concept"> https://dribbble.com/shots/19512530-Crypto-Tracking-Dashboard-Mobile-App-Concept</a></p>
     <image src="https://media.giphy.com/media/7k5oWGlPZ4ZSRyKPXf/giphy.gif" />
