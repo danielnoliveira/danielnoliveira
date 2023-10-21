@@ -45,6 +45,15 @@ Hi, My name is Daniel
 
 <ul>
 <li>
+<p>
+    App de cursos.
+   <p> Design by <a href="https://github.com/danielnoliveira/courses_app">Sunie UX </a></p>
+   <p> <a href="https://github.com/danielnoliveira/courses_app">Link do repositorio</a></p>
+    <p>Feito com Flutter</p>
+    <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl2OXRjcW9wZmlrbm5ieXdwZnVpZWFqZDdma3p2dml6NmRlOWowNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FGwBbybzipfR37Dsc2/giphy.gif" />
+    </li>
+     <li>
+    <p>
     <p>
     App de consulta de dados dos paises na api do IBGE. 
     <a href="https://github.com/danielnoliveira/crypto_ui">Link do repositorio</a></p>
